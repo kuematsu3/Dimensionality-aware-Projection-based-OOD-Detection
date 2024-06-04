@@ -47,19 +47,19 @@ python3 averaging.py --num_seed 10
 This should be performed after running "extractor.py".
 It is recommended to construct a systematic directory structure like the following one.
 
-/home/user/workdir/
-├── averaging.py
-├── cifar10/
-│   ├── vgg13/
-│   │   ├── rnd0/extract/
-│   │   └── rnd1/extract/
-│   └── resnet18/
-│       ├── rnd0/extract/
-│       └── rnd1/extract/
-└── cifar100
-    ├── vgg13/
-    │   ├── rnd0/extract/
-    │   └── rnd1/extract/
-    └── resnet18/
-        ├── rnd0/extract/
-        └── rnd1/extract/
+/home/user/workdir/  
+├── averaging.py  
+├── cifar10/  
+│   ├── vgg13/  
+│   │   ├── rnd0/extract/  
+│   │   └── rnd1/extract/  
+│   └── resnet18/  
+│       ├── rnd0/extract/  
+│       └── rnd1/extract/  
+└── cifar100  
+    ├── vgg13/  
+    │   ├── rnd0/extract/  
+    │   └── rnd1/extract/  
+    └── resnet18/  
+        ├── rnd0/extract/  
+        └── rnd1/extract/  
