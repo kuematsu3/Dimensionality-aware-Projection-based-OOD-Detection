@@ -1,4 +1,4 @@
-# Reproduction of the paper entitled "Low dimensional properties essential to propagations of outliers in deep neural networks"
+# Reproduction of the paper entitled "Dimensionality-induced information loss of outliers in deep neural networks"
 
 # Install libraries by PIP
 ```sh
