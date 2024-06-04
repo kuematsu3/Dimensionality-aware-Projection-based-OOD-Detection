@@ -50,16 +50,16 @@ It is recommended to construct a systematic directory structure like the followi
 /home/user/workdir/  
 ├── averaging.py  
 ├── cifar10/  
-│   ├── vgg13/  
-│   │   ├── rnd0/extract/  
-│   │   └── rnd1/extract/  
-│   └── resnet18/  
-│       ├── rnd0/extract/  
-│       └── rnd1/extract/  
+│ &nbsp; &nbsp; &nbsp; ├── vgg13/  
+│ &nbsp; &nbsp; &nbsp; │ &nbsp; &nbsp; &nbsp; ├── rnd0/extract/  
+│ &nbsp; &nbsp; &nbsp; │ &nbsp; &nbsp; &nbsp; └── rnd1/extract/  
+│ &nbsp; &nbsp; &nbsp; └── resnet18/  
+│ &emsp; &emsp; &emsp; &nbsp; ├── rnd0/extract/  
+│ &emsp; &emsp; &emsp; &nbsp;  └── rnd1/extract/  
 └── cifar100  
 &nbsp; &nbsp; &nbsp; &nbsp; ├── vgg13/  
 &nbsp; &nbsp; &nbsp; &nbsp; │   ├── rnd0/extract/  
 &nbsp; &nbsp; &nbsp; &nbsp; │   └── rnd1/extract/  
 &nbsp; &nbsp; &nbsp; &nbsp; └── resnet18/  
-        ├── rnd0/extract/  
-        └── rnd1/extract/  
+&emsp; &emsp; &emsp; &emsp; ├── rnd0/extract/  
+&emsp; &emsp; &emsp; &emsp; └── rnd1/extract/  
