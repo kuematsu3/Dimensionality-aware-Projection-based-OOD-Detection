@@ -57,9 +57,9 @@ It is recommended to construct a systematic directory structure like the followi
 │       ├── rnd0/extract/  
 │       └── rnd1/extract/  
 └── cifar100  
-    ├── vgg13/  
-    │   ├── rnd0/extract/  
-    │   └── rnd1/extract/  
-    └── resnet18/  
+&nbsp; &nbsp; &nbsp; &nbsp; ├── vgg13/  
+&nbsp; &nbsp; &nbsp; &nbsp; │   ├── rnd0/extract/  
+&nbsp; &nbsp; &nbsp; &nbsp; │   └── rnd1/extract/  
+&nbsp; &nbsp; &nbsp; &nbsp; └── resnet18/  
         ├── rnd0/extract/  
         └── rnd1/extract/  
