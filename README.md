@@ -58,8 +58,8 @@ It is recommended to construct a systematic directory structure like the followi
 │ &emsp; &emsp; &emsp; &nbsp;  └── rnd1/extract/  
 └── cifar100  
 &emsp; &emsp; ├── vgg13/  
-&emsp; &emsp; │   ├── rnd0/extract/  
-&nbsp; &nbsp; &nbsp; &nbsp; │   └── rnd1/extract/  
-&nbsp; &nbsp; &nbsp; &nbsp; └── resnet18/  
+&emsp; &emsp; │ &emsp; &nbsp; ├── rnd0/extract/  
+&emsp; &emsp; │ &emsp; &nbsp; └── rnd1/extract/  
+&emsp; &emsp; └── resnet18/  
 &emsp; &emsp; &emsp; &emsp; ├── rnd0/extract/  
 &emsp; &emsp; &emsp; &emsp; └── rnd1/extract/  
